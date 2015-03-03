@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Architectural Requirements}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Documentation across levels of granularity}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}The structural view}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}The tactics view}{2}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}The application concepts and constraints view}{2}{subsection.1.4}
+\contentsline {subsection}{\numberline {1.5}The reference architecture view}{3}{subsection.1.5}
+\contentsline {subsection}{\numberline {1.6}Technologies and frameworks view}{3}{subsection.1.6}
