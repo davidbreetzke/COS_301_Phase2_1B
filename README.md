@@ -25,7 +25,7 @@
   - GitHub Username: TieniePritchard
  - **Aluwani Simetsi**
   - Student Number: 11322935
-  - GitHub Username: [Aluwani26]
+  - GitHub Username: Aluwani26
 
 #### Project Phase Outline:
  - **Access & Intergration Requirements:**
