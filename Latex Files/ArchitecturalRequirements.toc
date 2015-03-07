@@ -1,28 +1,34 @@
-\contentsline {section}{\numberline {1}\textbf {\relax \fontsize {20.74}{25}\selectfont {Access and Integration Requirements}}}{2}{section.1}
-\contentsline {section}{\numberline {2}\textbf {\relax \fontsize {20.74}{25}\selectfont {Access Channels}}}{3}{section.2}
-\contentsline {section}{\numberline {3}\textbf {\relax \fontsize {20.74}{25}\selectfont {Integration Channels}}}{4}{section.3}
-\contentsline {section}{\numberline {4}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architectural Responsibilities}}}{5}{section.4}
-\contentsline {section}{\numberline {5}\textbf {\relax \fontsize {20.74}{25}\selectfont {Quality Requirements}}}{6}{section.5}
-\contentsline {subsection}{\numberline {5.1}Scalability}{6}{subsection.5.1}
-\contentsline {subsection}{\numberline {5.2}Performance Requirements}{6}{subsection.5.2}
-\contentsline {subsection}{\numberline {5.3}Maintainability}{6}{subsection.5.3}
-\contentsline {subsection}{\numberline {5.4}Reliability and Availability}{6}{subsection.5.4}
-\contentsline {subsection}{\numberline {5.5}Security}{6}{subsection.5.5}
-\contentsline {subsection}{\numberline {5.6}Monitorability and Auditability}{6}{subsection.5.6}
-\contentsline {subsection}{\numberline {5.7}Scalability}{6}{subsection.5.7}
-\contentsline {subsection}{\numberline {5.8}Testability}{6}{subsection.5.8}
-\contentsline {subsubsection}{\numberline {5.8.1}Type of Quality:}{6}{subsubsection.5.8.1}
-\contentsline {subsubsection}{\numberline {5.8.2}Priority:}{6}{subsubsection.5.8.2}
-\contentsline {subsubsection}{\numberline {5.8.3}Description:}{7}{subsubsection.5.8.3}
-\contentsline {subsubsection}{\numberline {5.8.4}Stake Holder:}{7}{subsubsection.5.8.4}
-\contentsline {subsubsection}{\numberline {5.8.5}Context:}{7}{subsubsection.5.8.5}
-\contentsline {subsubsection}{\numberline {5.8.6}Measurable Specification:}{7}{subsubsection.5.8.6}
-\contentsline {subsection}{\numberline {5.9}Usability }{8}{subsection.5.9}
-\contentsline {subsubsection}{\numberline {5.9.1}Type of Quality:}{8}{subsubsection.5.9.1}
-\contentsline {subsubsection}{\numberline {5.9.2}Priority:}{8}{subsubsection.5.9.2}
-\contentsline {subsubsection}{\numberline {5.9.3}Description:}{8}{subsubsection.5.9.3}
-\contentsline {subsubsection}{\numberline {5.9.4}Stake Holder:}{8}{subsubsection.5.9.4}
-\contentsline {subsubsection}{\numberline {5.9.5}Context:}{8}{subsubsection.5.9.5}
-\contentsline {subsubsection}{\numberline {5.9.6}Measurable Specification:}{9}{subsubsection.5.9.6}
-\contentsline {subsection}{\numberline {5.10}Integrability}{9}{subsection.5.10}
-\contentsline {section}{\numberline {6}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architecture Constraints}}}{10}{section.6}
+\contentsline {section}{\numberline {1}\textbf {\relax \fontsize {20.74}{25}\selectfont {Access and Integration Requirements}}}{3}{section.1}
+\contentsline {section}{\numberline {2}\textbf {\relax \fontsize {20.74}{25}\selectfont {Access Channels}}}{4}{section.2}
+\contentsline {section}{\numberline {3}\textbf {\relax \fontsize {20.74}{25}\selectfont {Integration Channels}}}{5}{section.3}
+\contentsline {section}{\numberline {4}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architectural Responsibilities}}}{6}{section.4}
+\contentsline {section}{\numberline {5}\textbf {\relax \fontsize {20.74}{25}\selectfont {Quality Requirements}}}{7}{section.5}
+\contentsline {subsection}{\numberline {5.1}Scalability}{7}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Performance Requirements}{7}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Maintainability}{7}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Reliability and Availability}{7}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Security}{7}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Monitorability and Auditability}{7}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Scalability}{7}{subsection.5.7}
+\contentsline {subsection}{\numberline {5.8}Testability}{7}{subsection.5.8}
+\contentsline {subsubsection}{\numberline {5.8.1}Type of Quality:}{7}{subsubsection.5.8.1}
+\contentsline {subsubsection}{\numberline {5.8.2}Priority:}{7}{subsubsection.5.8.2}
+\contentsline {subsubsection}{\numberline {5.8.3}Description:}{8}{subsubsection.5.8.3}
+\contentsline {subsubsection}{\numberline {5.8.4}Stake Holder:}{8}{subsubsection.5.8.4}
+\contentsline {subsubsection}{\numberline {5.8.5}Context:}{8}{subsubsection.5.8.5}
+\contentsline {subsubsection}{\numberline {5.8.6}Measurable Specification:}{8}{subsubsection.5.8.6}
+\contentsline {subsection}{\numberline {5.9}Usability }{9}{subsection.5.9}
+\contentsline {subsubsection}{\numberline {5.9.1}Type of Quality:}{9}{subsubsection.5.9.1}
+\contentsline {subsubsection}{\numberline {5.9.2}Priority:}{9}{subsubsection.5.9.2}
+\contentsline {subsubsection}{\numberline {5.9.3}Description:}{9}{subsubsection.5.9.3}
+\contentsline {subsubsection}{\numberline {5.9.4}Stake Holder:}{9}{subsubsection.5.9.4}
+\contentsline {subsubsection}{\numberline {5.9.5}Context:}{9}{subsubsection.5.9.5}
+\contentsline {subsubsection}{\numberline {5.9.6}Measurable Specification:}{10}{subsubsection.5.9.6}
+\contentsline {subsection}{\numberline {5.10}Integrability}{10}{subsection.5.10}
+\contentsline {subsubsection}{\numberline {5.10.1}Type of Quality:}{10}{subsubsection.5.10.1}
+\contentsline {subsubsection}{\numberline {5.10.2}Priority:}{10}{subsubsection.5.10.2}
+\contentsline {subsubsection}{\numberline {5.10.3}Description:}{10}{subsubsection.5.10.3}
+\contentsline {subsubsection}{\numberline {5.10.4}Stake Holder:}{11}{subsubsection.5.10.4}
+\contentsline {subsubsection}{\numberline {5.10.5}Context:}{11}{subsubsection.5.10.5}
+\contentsline {subsubsection}{\numberline {5.10.6}Measurable Specification:}{11}{subsubsection.5.10.6}
+\contentsline {section}{\numberline {6}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architecture Constraints}}}{12}{section.6}
