@@ -1,15 +1,22 @@
-\contentsline {section}{\numberline {1}Access and Integration Requirements}{2}{section.1}
-\contentsline {subsection}{\numberline {1.1}Access Channels}{2}{subsection.1.1}
-\contentsline {subsection}{\numberline {1.2}Integration Channels}{2}{subsection.1.2}
-\contentsline {section}{\numberline {2}Architectural Responsibilities}{2}{section.2}
-\contentsline {section}{\numberline {3}Quality Requirements}{2}{section.3}
-\contentsline {subsection}{\numberline {3.1}Scalability}{2}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Performance Requirements}{2}{subsection.3.2}
-\contentsline {subsection}{\numberline {3.3}Maintainability}{2}{subsection.3.3}
-\contentsline {subsection}{\numberline {3.4}Reliability and Availability}{2}{subsection.3.4}
-\contentsline {subsection}{\numberline {3.5}Security}{2}{subsection.3.5}
-\contentsline {subsection}{\numberline {3.6}Monitorability and Auditability}{2}{subsection.3.6}
-\contentsline {subsection}{\numberline {3.7}Testability }{2}{subsection.3.7}
-\contentsline {subsection}{\numberline {3.8}Usability }{3}{subsection.3.8}
-\contentsline {subsection}{\numberline {3.9}Integrability}{3}{subsection.3.9}
-\contentsline {section}{\numberline {4}Architecture Constraints}{3}{section.4}
+\contentsline {section}{\numberline {1}\textbf {\relax \fontsize {20.74}{25}\selectfont {Access and Integration Requirements}}}{2}{section.1}
+\contentsline {section}{\numberline {2}\textbf {\relax \fontsize {20.74}{25}\selectfont {Access Channels}}}{3}{section.2}
+\contentsline {section}{\numberline {3}\textbf {\relax \fontsize {20.74}{25}\selectfont {Integration Channels}}}{4}{section.3}
+\contentsline {section}{\numberline {4}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architectural Responsibilities}}}{5}{section.4}
+\contentsline {section}{\numberline {5}\textbf {\relax \fontsize {20.74}{25}\selectfont {Quality Requirements}}}{6}{section.5}
+\contentsline {subsection}{\numberline {5.1}Scalability}{6}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Performance Requirements}{6}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Maintainability}{6}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Reliability and Availability}{6}{subsection.5.4}
+\contentsline {subsection}{\numberline {5.5}Security}{6}{subsection.5.5}
+\contentsline {subsection}{\numberline {5.6}Monitorability and Auditability}{6}{subsection.5.6}
+\contentsline {subsection}{\numberline {5.7}Scalability}{6}{subsection.5.7}
+\contentsline {subsection}{\numberline {5.8}Testability}{6}{subsection.5.8}
+\contentsline {subsubsection}{\numberline {5.8.1}Type of Quality:}{6}{subsubsection.5.8.1}
+\contentsline {subsubsection}{\numberline {5.8.2}Priority:}{6}{subsubsection.5.8.2}
+\contentsline {subsubsection}{\numberline {5.8.3}Description:}{7}{subsubsection.5.8.3}
+\contentsline {subsubsection}{\numberline {5.8.4}Stake Holder:}{7}{subsubsection.5.8.4}
+\contentsline {subsubsection}{\numberline {5.8.5}Context:}{7}{subsubsection.5.8.5}
+\contentsline {subsubsection}{\numberline {5.8.6}Measurable Specification:}{7}{subsubsection.5.8.6}
+\contentsline {subsection}{\numberline {5.9}Usability }{8}{subsection.5.9}
+\contentsline {subsection}{\numberline {5.10}Integrability}{8}{subsection.5.10}
+\contentsline {section}{\numberline {6}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architecture Constraints}}}{9}{section.6}
