@@ -34,7 +34,74 @@
 	\section{\textbf{\huge{Integration Channels}}}
 	\end{center}
 	
-	[insert text]
+	\textbf{Different systems which the Buzz System must integrate with:}
+	\\
+	\begin{itemize}
+	\item LDAP (Lightweight Directory Access Protocol) Server
+		\begin{itemize}
+			\item Each user will need to have an LDAP account (i.e. username and password) in order to connect to the LDAP server which they will use to log into the buzz system
+			\item University of Pretoria Computer Science students automatically have these accounts as they’re registered on the CS web.
+			\item However, this is a requirement if other Universities want to integrate the buzz system into their systems.
+		\end{itemize}
+	
+	\item CS Web
+		\begin{itemize}
+			\item The buzz system will be integrated into the CS Web (http://www.cs.up.ac.za/) in order to allow users to access the functionality. 
+			\item Most likely, the buzz system will replace the current CS web’s forum system, which will allow modules to link their personal buzz space from the module site.
+			\item Thus, it is necessary for the CS web to have access to the buzz system.
+		\end{itemize}
+	\item WWW (World Wide Web)
+		\begin{itemize}
+			\item The buzz system will need to be hosted to a server and needs to have access to that server’s individual functionality services (i.e. Apache, PHP, etc.)
+			\item It is necessary to integrate the buzz system with the WWW in order to allow people to actually access it (i.e. via a URL).
+		\end{itemize}
+	\item DBMS (Database Management System)
+		\begin{itemize}
+			\item The buzz system will need to connect to some database which will store all user information such as profiles, passwords, usernames, etc. 
+			\item This storing of information will be done via some DBMS (Such as MySQL).
+		\end{itemize}
+	\end{itemize}
+	
+	\newpage
+	
+	\textbf{The integration channels and protocols which need to be used}
+	\\
+	\begin{itemize}
+	\item GUI (Graphical User Interface)
+		\begin{itemize}
+			\item This will allow users to actually interact with the Buzz System so that they can post, comment, etc. 
+			\begin{itemize}
+				\item Protocols which will be used here are: HTTP
+			\end{itemize}
+		\end{itemize}
+	\item The server which the buzz system is hosted on.
+		\begin{itemize}
+			\item The server will provide a lot of the functionality needed for the buzz system to actually be able to handle and respond to requests.
+			\item It will also provide the core access channel for users. 
+			\item Various protocols need to be used here, such as
+				\begin{itemize}
+					\item HTTP
+						\begin{itemize}
+							\item For processing and handling GET/POST requests from users (i.e. conformity to the RFC (Request for Comments standard).
+						\end{itemize}
+					\item SOAP (Simple Object Access Protocol). 
+						\begin{itemize}
+							\item This is a messaging protocol that allows programs which run on disparate operating systems to communicate using HTTP and its XML. 
+							\item This is necessary to ensure that users between different operating systems can communicate using a standard interface, so that there are no technological gaps which will hamper communication among different users.
+						\end{itemize}
+					\item TCP/IP (Transmission Control Protocol/Internet Protocol)
+						\begin{itemize}
+							\item TCP is needed to connect to the host server's socket so that data may be delivered in streams of octets to users connected to the Buzz System's server.
+							\item IP is needed to deliver packets from the Buzz System server to the clients based on the relevant IP addresses in the packet headers.
+						\end{itemize}
+					\item HTTPS (HTTP Secure)
+						\begin{itemize}
+							\item This is needed for secure communication between the server and the clients. 
+							\item It is very important in terms of security, especially in terms of communication of passwords/user names/personal information.
+						\end{itemize}
+				\end{itemize}
+		\end{itemize}
+	\end{itemize}
 %---------------------------------------------------------
 
 %Architectural Responsibilities
