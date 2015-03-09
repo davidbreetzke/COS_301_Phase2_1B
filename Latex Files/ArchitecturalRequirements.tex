@@ -8,34 +8,45 @@
 \input{./TitlePage.tex}
 
 \tableofcontents	%Creates Table of contents from sections and subsections, etc...
-\newpage
 
 %Access and Integration Requirements
 	\newpage
 	\begin{center}
 	\section{\textbf{\huge{Access and Integration Requirements}}}
 	\end{center}
-	
-	[insert text]
-%---------------------------------------------------------
 
 %Access Channels
-	\newpage
-	\begin{center}
-	\section{\textbf{\huge{Access Channels}}}
-	\end{center}
+	\subsection{\textbf{\huge{Access Channels}}}
+	\subsubsection{\textbf{Human Access Channels}}
+	\begin{itemize}
+		\item
+		\textbf{Students} will be able to access Buzz from the Computer Science website (or the equivalent URL). It is therefore required that students have access to an internet connection and any of the major web browser clients available, some of which include Mozilla Firefox, Google Chrome, Safari, Internet Explorer and Opera.
+		\item
+		\textbf{Lecturers} will be able to access Buzz in the same way that students can, i.e. via a web browser. However, unlike students, lecturers will have access to more services that are not available to students.
+		\item
+		\textbf{Administrators}, being classified as the group of individuals that monitor the system's operation, as well as manage and maintain the system, may have access to the system through a web browser (as before with students and lecturers) with far less restrictions on available services, if any at all. Administrators will also have access to the back-end of the system through the host servers, locally. 
+		\item
+		 \textbf{Auditors} may require access to service logs. These services logs may be accessed via the host servers or other server on which the service logs for Buzz are located. Access to these logs may be provided remotely, although this may depend on the security risks of allowing such access.
+	\end{itemize}
 	
-	[insert text]
+	\subsubsection{Access Channel Protocols}
+	\begin{itemize}
+	\item
+	\textbf{HTTP} is one option as a protocol for server-client communication (between the web browser and the server). Due to its statelessness, it provides for speed and lower bandwidth usage, which is ideal for users that have slow connections or limited bandwidth, or both. However, HTTP is not secure. 
+	\item\textbf{HTTPS} is the other option for server-client communication. It works in conjunction with SSL to provide a secure connection. This will be most valuable in providing secure authentication when a user attempts to log in to Buzz. 
+	\end{itemize}
+	
+	\subsubsection{Other Access Channels}
+	\begin{itemize}
+	\item
+	\textbf{Android Client:} An optional means of access to Buzz for users is the Android client application. However, this system is out of scope for the mini-project.
+	\end{itemize}
 %---------------------------------------------------------
 		
 %Integration Channels
-	\newpage
-	\begin{center}
-	\section{\textbf{\huge{Integration Channels}}}
-	\end{center}
+	\subsection{\textbf{\huge{Integration Channels}}}
 	
-	\textbf{Different systems which the Buzz System must integrate with:}
-	\\
+	\subsubsection{Systems with which Buzz must integrate}
 	\begin{itemize}
 	\item LDAP (Lightweight Directory Access Protocol) Server
 		\begin{itemize}
@@ -62,10 +73,7 @@
 		\end{itemize}
 	\end{itemize}
 	
-	\newpage
-	
-	\textbf{The integration channels and protocols which need to be used}
-	\\
+	\subsubsection{Integration Channels and Protocols}
 	\begin{itemize}
 	\item GUI (Graphical User Interface)
 		\begin{itemize}
