@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.2.27)  9 MAR 2015 09:05
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.2.21)  9 MAR 2015 10:42
 entering extended mode
 **ArchitecturalRequirements.tex
 
-("C:\Users\Eppy\Documents\GitHub\COS_301_Phase2_1B\Latex Files\ArchitecturalReq
-uirements.tex"
+("D:\Academic Files\Academic 2015\COS 301\COS_301_Phase2_1B\Latex Files\Archite
+cturalRequirements.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -187,8 +187,8 @@ Package: bookmark 2011/12/02 v1.24 PDF bookmarks (HO)
 File: bkm-pdftex.def 2011/12/02 v1.24 bookmark driver for pdfTeX (HO)
 \BKM@id=\count98
 ))
-("C:\Users\Eppy\Documents\GitHub\COS_301_Phase2_1B\Latex Files\ArchitecturalReq
-uirements.aux")
+("D:\Academic Files\Academic 2015\COS 301\COS_301_Phase2_1B\Latex Files\Archite
+cturalRequirements.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
@@ -203,7 +203,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
 LaTeX Font Info:    ... okay on input line 7.
- ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count99
 \scratchdimen=\dimen109
@@ -231,8 +232,8 @@ LaTeX Info: Redefining \ref on input line 7.
 LaTeX Info: Redefining \pageref on input line 7.
 LaTeX Info: Redefining \nameref on input line 7.
 
-("C:\Users\Eppy\Documents\GitHub\COS_301_Phase2_1B\Latex Files\TitlePage.tex"
-<University_of_Pretoria_Logo.png, id=3, 900.36375pt x 269.50688pt>
+("D:\Academic Files\Academic 2015\COS 301\COS_301_Phase2_1B\Latex Files\TitlePa
+ge.tex" <University_of_Pretoria_Logo.png, id=3, 900.36375pt x 269.50688pt>
 File: University_of_Pretoria_Logo.png Graphic file (type png)
 
 <use University_of_Pretoria_Logo.png>
@@ -251,14 +252,15 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 20.
 [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Eppy/Documents/G
-itHub/COS_301_Phase2_1B/Latex Files/University_of_Pretoria_Logo.png>])
-("C:\Users\Eppy\Documents\GitHub\COS_301_Phase2_1B\Latex Files\ArchitecturalReq
-uirements.toc"pdfTeX warning (ext4): destination with the same identifier (name
-{page.1}) has been already used, duplicate ignored
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Academic Files/Academi
+c 2015/COS 301/COS_301_Phase2_1B/Latex Files/University_of_Pretoria_Logo.png>])
+
+("D:\Academic Files\Academic 2015\COS 301\COS_301_Phase2_1B\Latex Files\Archite
+cturalRequirements.toc"pdfTeX warning (ext4): destination with the same identif
+ier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 ...ation Channels:}{10}{subsubsection.5.10.7}
+l.34 ...ation Channels:}{11}{subsubsection.5.10.7}
                                                    [1])
 \tf@toc=\write3
  [2] [3] [4] [5]
@@ -298,26 +300,33 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [11] [12]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
- [13]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
+ [11] [12] [13]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [14]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 312.
+ [15]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 312.
 
-("C:\Users\Eppy\Documents\GitHub\COS_301_Phase2_1B\Latex Files\ArchitecturalReq
-uirements.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 237.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 237.
+("D:\Academic Files\Academic 2015\COS 301\COS_301_Phase2_1B\Latex Files\Archite
+cturalRequirements.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 312.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 312.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 312.
  ) 
 Here is how much of TeX's memory you used:
- 5309 strings out of 493921
- 79187 string characters out of 3147285
+ 5335 strings out of 493921
+ 79590 string characters out of 3147270
  160239 words of memory out of 3000000
- 8536 multiletter control sequences out of 15000+200000
+ 8548 multiletter control sequences out of 15000+200000
  8857 words of font info for 31 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,6n,30p,422b,390s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -327,9 +336,9 @@ les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
 ts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1
 /public/amsfonts/cm/cmti10.pfb>
-Output written on ArchitecturalRequirements.pdf (14 pages, 327572 bytes).
+Output written on ArchitecturalRequirements.pdf (16 pages, 339612 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 52 named destinations out of 1000 (max. 500000)
- 302 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 360 PDF objects out of 1000 (max. 8388607)
+ 66 named destinations out of 1000 (max. 500000)
+ 398 words of extra memory for PDF output out of 10000 (max. 10000000)
 

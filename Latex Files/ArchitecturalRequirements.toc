@@ -35,3 +35,15 @@
 \contentsline {subsubsection}{\numberline {5.10.8}Protocol Requirements on Integration Channels:}{12}{subsubsection.5.10.8}
 \contentsline {subsubsection}{\numberline {5.10.9}Quality requirements on integration channels:}{12}{subsubsection.5.10.9}
 \contentsline {section}{\numberline {6}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architecture Constraints}}}{13}{section.6}
+\contentsline {subsubsection}{\numberline {6.0.10}Description:}{13}{subsubsection.6.0.10}
+\contentsline {subsubsection}{\numberline {6.0.11}Technical constraints:}{13}{subsubsection.6.0.11}
+\contentsline {subsubsection}{\numberline {6.0.12}Business constraints:}{13}{subsubsection.6.0.12}
+\contentsline {section}{\numberline {7}Technical Constraints:}{13}{section.7}
+\contentsline {subsubsection}{\numberline {7.0.13} Programming technologies:}{13}{subsubsection.7.0.13}
+\contentsline {subsubsection}{\numberline {7.0.14}Platforms supported and operating system:}{14}{subsubsection.7.0.14}
+\contentsline {subsubsection}{\numberline {7.0.15}Hardware:}{14}{subsubsection.7.0.15}
+\contentsline {subsubsection}{\numberline {7.0.16}Use of a specific library or framework:}{14}{subsubsection.7.0.16}
+\contentsline {section}{\numberline {8} Business Constraints:}{14}{section.8}
+\contentsline {subsubsection}{\numberline {8.0.17}Schedule:}{14}{subsubsection.8.0.17}
+\contentsline {subsubsection}{\numberline {8.0.18}Budget:}{15}{subsubsection.8.0.18}
+\contentsline {subsubsection}{\numberline {8.0.19}Software licensing restrictions:}{15}{subsubsection.8.0.19}
