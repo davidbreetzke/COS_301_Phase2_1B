@@ -31,4 +31,7 @@
 \contentsline {subsubsection}{\numberline {5.10.4}Stake Holder:}{11}{subsubsection.5.10.4}
 \contentsline {subsubsection}{\numberline {5.10.5}Context:}{11}{subsubsection.5.10.5}
 \contentsline {subsubsection}{\numberline {5.10.6}Measurable Specification:}{11}{subsubsection.5.10.6}
-\contentsline {section}{\numberline {6}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architecture Constraints}}}{12}{section.6}
+\contentsline {subsubsection}{\numberline {5.10.7}Required Integration Channels:}{11}{subsubsection.5.10.7}
+\contentsline {subsubsection}{\numberline {5.10.8}Protocol Requirements on Integration Channels:}{12}{subsubsection.5.10.8}
+\contentsline {subsubsection}{\numberline {5.10.9}Quality requirements on integration channels:}{12}{subsubsection.5.10.9}
+\contentsline {section}{\numberline {6}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architecture Constraints}}}{13}{section.6}
