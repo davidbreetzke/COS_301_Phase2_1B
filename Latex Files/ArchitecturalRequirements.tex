@@ -172,50 +172,50 @@
 %---------------------------------------------------------
 	\subsection{Scalability}
 		\subsubsection{Type of Quality:}
-			\textbf{}
+			\textbf{}Maintenance,System
 		
 		\subsubsection{Priority:}
-			\textbf{}
+			\textbf{}Important 
 		
 		\subsubsection{Description:}
-			\textbf{}
+			\textbf{}As soon as an instance of a server reaches the maximum amount of connection that it can handle, a new instance of a server should be spawned. When there are multiple instances of servers running, and the amount of connections to the system can be handled with fewer instances, one or more should be terminated with its connections migrating to other instances.
 		
 		\subsubsection{Stake Holder:}
-			\textbf{}
+			\textbf{}Server Maintenance Staff
 
 		\subsubsection{Context:}
-			\textbf{}
+			\textbf{}When new connections are made to the Buzz system or existing ones are terminated, it should scale.
 		
 	\subsection{Performance Requirements}
 		\subsubsection{Type of Quality:}
-			\textbf{}
+			\textbf{}User Quality
 		
 		\subsubsection{Priority:}
-			\textbf{}
+			\textbf{}Critical
 		
 		\subsubsection{Details:}
-			\textbf{}
+			\textbf{}Any response time longer than 1 second would break the user's though flow. Therefore if a server is overloaded, and the amount of requests in its request queue is higher than the amount that can be handled per second, a new server should be spawned to reduce stress on the current one. When more than one instance of a server is running, load balancers have to implemented to mitigate the workload. Jobs that do not need immediate responses, can be handled at times that the system is under little strain. Since the persistent data in the system will be accessed on almost every request to the server, optimal structures and indexes are very important.
 		
 		\subsubsection{Stake Holder:}
-			\textbf{}
+			\textbf{}Users
 
 		\subsubsection{Context:}
-			\textbf{}
+			\textbf{}When a user makes a request to the server via the Buzz interface.
 	\subsection{Maintainability}
 		\subsubsection{Type of Quality:}
-			\textbf{}
+			\textbf{}Maintenance, System
 		
 		\subsubsection{Priority:}
-			\textbf{}
+			\textbf{}Critical
 
 		\subsubsection{Context:}
-			\textbf{}
+			\textbf{}Any module developed for the Buzz system has to be maintainable, and easily replaceable.
 		
 		\subsubsection{Details:}
-			\textbf{}
+			\textbf{}By using service contracts for all modules, with coupling ratios being kept as low as possible, complete pluggability must be achieved. Any module has to be swappable or rewritable, without making any changes to any other module. All code has to adhere to strict coding standards.
 		
 		\subsubsection{Stake Holder:}
-			\textbf{}
+			\textbf{}Maintenance Staff
 
 	\subsection{Reliability and Availability}
 		\subsubsection{Type of Quality:}
