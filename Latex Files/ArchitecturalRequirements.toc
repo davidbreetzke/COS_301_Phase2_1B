@@ -12,68 +12,62 @@
 \contentsline {subsubsection}{\numberline {3.1.1}Type of Quality:}{10}{subsubsection.3.1.1}
 \contentsline {subsubsection}{\numberline {3.1.2}Priority:}{10}{subsubsection.3.1.2}
 \contentsline {subsubsection}{\numberline {3.1.3}Description:}{10}{subsubsection.3.1.3}
-\contentsline {subsubsection}{\numberline {3.1.4}Stake Holder:}{10}{subsubsection.3.1.4}
+\contentsline {subsubsection}{\numberline {3.1.4}Stakeholder:}{10}{subsubsection.3.1.4}
 \contentsline {subsubsection}{\numberline {3.1.5}Context:}{10}{subsubsection.3.1.5}
 \contentsline {subsection}{\numberline {3.2}Performance Requirements}{10}{subsection.3.2}
 \contentsline {subsubsection}{\numberline {3.2.1}Type of Quality:}{10}{subsubsection.3.2.1}
 \contentsline {subsubsection}{\numberline {3.2.2}Priority:}{10}{subsubsection.3.2.2}
-\contentsline {subsubsection}{\numberline {3.2.3}Details:}{10}{subsubsection.3.2.3}
-\contentsline {subsubsection}{\numberline {3.2.4}Stake Holder:}{10}{subsubsection.3.2.4}
-\contentsline {subsubsection}{\numberline {3.2.5}Context:}{10}{subsubsection.3.2.5}
+\contentsline {subsubsection}{\numberline {3.2.3}Details:}{11}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Stakeholder:}{11}{subsubsection.3.2.4}
+\contentsline {subsubsection}{\numberline {3.2.5}Context:}{11}{subsubsection.3.2.5}
 \contentsline {subsection}{\numberline {3.3}Maintainability}{11}{subsection.3.3}
 \contentsline {subsubsection}{\numberline {3.3.1}Type of Quality:}{11}{subsubsection.3.3.1}
 \contentsline {subsubsection}{\numberline {3.3.2}Priority:}{11}{subsubsection.3.3.2}
 \contentsline {subsubsection}{\numberline {3.3.3}Context:}{11}{subsubsection.3.3.3}
 \contentsline {subsubsection}{\numberline {3.3.4}Details:}{11}{subsubsection.3.3.4}
-\contentsline {subsubsection}{\numberline {3.3.5}Stake Holder:}{11}{subsubsection.3.3.5}
-\contentsline {subsection}{\numberline {3.4}Reliability and Availability}{11}{subsection.3.4}
-\contentsline {subsubsection}{\numberline {3.4.1}Type of Quality:}{11}{subsubsection.3.4.1}
-\contentsline {subsubsection}{\numberline {3.4.2}Priority:}{11}{subsubsection.3.4.2}
-\contentsline {subsubsection}{\numberline {3.4.3}Context:}{11}{subsubsection.3.4.3}
-\contentsline {subsubsection}{\numberline {3.4.4}Details:}{11}{subsubsection.3.4.4}
-\contentsline {subsubsection}{\numberline {3.4.5}Stake Holder:}{11}{subsubsection.3.4.5}
+\contentsline {subsubsection}{\numberline {3.3.5}Stakeholder:}{12}{subsubsection.3.3.5}
+\contentsline {subsection}{\numberline {3.4}Reliability and Availability}{12}{subsection.3.4}
+\contentsline {subsubsection}{\numberline {3.4.1}Type of Quality:}{12}{subsubsection.3.4.1}
+\contentsline {subsubsection}{\numberline {3.4.2}Priority:}{12}{subsubsection.3.4.2}
+\contentsline {subsubsection}{\numberline {3.4.3}Context:}{12}{subsubsection.3.4.3}
+\contentsline {subsubsection}{\numberline {3.4.4}Details:}{12}{subsubsection.3.4.4}
+\contentsline {subsubsection}{\numberline {3.4.5}Stakeholder:}{12}{subsubsection.3.4.5}
 \contentsline {subsection}{\numberline {3.5}Security}{12}{subsection.3.5}
 \contentsline {subsubsection}{\numberline {3.5.1}Type of Quality:}{12}{subsubsection.3.5.1}
 \contentsline {subsubsection}{\numberline {3.5.2}Priority:}{12}{subsubsection.3.5.2}
 \contentsline {subsubsection}{\numberline {3.5.3}Context:}{12}{subsubsection.3.5.3}
-\contentsline {subsubsection}{\numberline {3.5.4}Details:}{12}{subsubsection.3.5.4}
-\contentsline {subsubsection}{\numberline {3.5.5}Stake Holder:}{12}{subsubsection.3.5.5}
-\contentsline {subsection}{\numberline {3.6}Monitorability and Auditability}{12}{subsection.3.6}
-\contentsline {subsubsection}{\numberline {3.6.1}Type of Quality:}{12}{subsubsection.3.6.1}
-\contentsline {subsubsection}{\numberline {3.6.2}Priority:}{12}{subsubsection.3.6.2}
-\contentsline {subsubsection}{\numberline {3.6.3}Context:}{12}{subsubsection.3.6.3}
+\contentsline {subsubsection}{\numberline {3.5.4}Details:}{13}{subsubsection.3.5.4}
+\contentsline {subsubsection}{\numberline {3.5.5}Stakeholder:}{13}{subsubsection.3.5.5}
+\contentsline {subsection}{\numberline {3.6}Monitorability and Auditability}{13}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Type of Quality:}{13}{subsubsection.3.6.1}
+\contentsline {subsubsection}{\numberline {3.6.2}Priority:}{13}{subsubsection.3.6.2}
+\contentsline {subsubsection}{\numberline {3.6.3}Context:}{13}{subsubsection.3.6.3}
 \contentsline {subsubsection}{\numberline {3.6.4}Details:}{13}{subsubsection.3.6.4}
-\contentsline {subsubsection}{\numberline {3.6.5}Stake Holder:}{13}{subsubsection.3.6.5}
-\contentsline {subsection}{\numberline {3.7}Scalability}{13}{subsection.3.7}
+\contentsline {subsubsection}{\numberline {3.6.5}Stakeholder:}{13}{subsubsection.3.6.5}
+\contentsline {subsection}{\numberline {3.7}Testability}{13}{subsection.3.7}
 \contentsline {subsubsection}{\numberline {3.7.1}Type of Quality:}{13}{subsubsection.3.7.1}
-\contentsline {subsubsection}{\numberline {3.7.2}Priority:}{13}{subsubsection.3.7.2}
-\contentsline {subsubsection}{\numberline {3.7.3}Context:}{13}{subsubsection.3.7.3}
-\contentsline {subsubsection}{\numberline {3.7.4}Details:}{13}{subsubsection.3.7.4}
-\contentsline {subsubsection}{\numberline {3.7.5}Stake Holder:}{13}{subsubsection.3.7.5}
-\contentsline {subsection}{\numberline {3.8}Testability}{13}{subsection.3.8}
-\contentsline {subsubsection}{\numberline {3.8.1}Type of Quality:}{13}{subsubsection.3.8.1}
-\contentsline {subsubsection}{\numberline {3.8.2}Priority:}{13}{subsubsection.3.8.2}
-\contentsline {subsubsection}{\numberline {3.8.3}Context:}{14}{subsubsection.3.8.3}
-\contentsline {subsubsection}{\numberline {3.8.4}Details:}{14}{subsubsection.3.8.4}
-\contentsline {subsubsection}{\numberline {3.8.5}Stake Holder:}{14}{subsubsection.3.8.5}
-\contentsline {subsubsection}{\numberline {3.8.6}Measurable Specification:}{14}{subsubsection.3.8.6}
-\contentsline {subsection}{\numberline {3.9}Usability }{15}{subsection.3.9}
-\contentsline {subsubsection}{\numberline {3.9.1}Type of Quality:}{15}{subsubsection.3.9.1}
-\contentsline {subsubsection}{\numberline {3.9.2}Priority:}{15}{subsubsection.3.9.2}
-\contentsline {subsubsection}{\numberline {3.9.3}Context:}{15}{subsubsection.3.9.3}
-\contentsline {subsubsection}{\numberline {3.9.4}Details:}{15}{subsubsection.3.9.4}
-\contentsline {subsubsection}{\numberline {3.9.5}Stake Holder:}{16}{subsubsection.3.9.5}
-\contentsline {subsubsection}{\numberline {3.9.6}Measurable Specification:}{16}{subsubsection.3.9.6}
-\contentsline {subsection}{\numberline {3.10}Integrability}{16}{subsection.3.10}
-\contentsline {subsubsection}{\numberline {3.10.1}Type of Quality:}{16}{subsubsection.3.10.1}
-\contentsline {subsubsection}{\numberline {3.10.2}Priority:}{16}{subsubsection.3.10.2}
-\contentsline {subsubsection}{\numberline {3.10.3}Context:}{16}{subsubsection.3.10.3}
-\contentsline {subsubsection}{\numberline {3.10.4}Description:}{17}{subsubsection.3.10.4}
-\contentsline {subsubsection}{\numberline {3.10.5}Stake Holder:}{17}{subsubsection.3.10.5}
-\contentsline {subsubsection}{\numberline {3.10.6}Measurable Specification:}{17}{subsubsection.3.10.6}
-\contentsline {subsubsection}{\numberline {3.10.7}Required Integration Channels:}{17}{subsubsection.3.10.7}
-\contentsline {subsubsection}{\numberline {3.10.8}Protocol Requirements on Integration Channels:}{18}{subsubsection.3.10.8}
-\contentsline {subsubsection}{\numberline {3.10.9}Quality requirements on integration channels:}{18}{subsubsection.3.10.9}
+\contentsline {subsubsection}{\numberline {3.7.2}Priority:}{14}{subsubsection.3.7.2}
+\contentsline {subsubsection}{\numberline {3.7.3}Context:}{14}{subsubsection.3.7.3}
+\contentsline {subsubsection}{\numberline {3.7.4}Details:}{14}{subsubsection.3.7.4}
+\contentsline {subsubsection}{\numberline {3.7.5}Stakeholder:}{14}{subsubsection.3.7.5}
+\contentsline {subsubsection}{\numberline {3.7.6}Measurable Specification:}{14}{subsubsection.3.7.6}
+\contentsline {subsection}{\numberline {3.8}Usability }{15}{subsection.3.8}
+\contentsline {subsubsection}{\numberline {3.8.1}Type of Quality:}{15}{subsubsection.3.8.1}
+\contentsline {subsubsection}{\numberline {3.8.2}Priority:}{15}{subsubsection.3.8.2}
+\contentsline {subsubsection}{\numberline {3.8.3}Context:}{15}{subsubsection.3.8.3}
+\contentsline {subsubsection}{\numberline {3.8.4}Details:}{16}{subsubsection.3.8.4}
+\contentsline {subsubsection}{\numberline {3.8.5}Stakeholder:}{16}{subsubsection.3.8.5}
+\contentsline {subsubsection}{\numberline {3.8.6}Measurable Specification:}{16}{subsubsection.3.8.6}
+\contentsline {subsection}{\numberline {3.9}Integrability}{16}{subsection.3.9}
+\contentsline {subsubsection}{\numberline {3.9.1}Type of Quality:}{16}{subsubsection.3.9.1}
+\contentsline {subsubsection}{\numberline {3.9.2}Priority:}{16}{subsubsection.3.9.2}
+\contentsline {subsubsection}{\numberline {3.9.3}Context:}{17}{subsubsection.3.9.3}
+\contentsline {subsubsection}{\numberline {3.9.4}Details:}{17}{subsubsection.3.9.4}
+\contentsline {subsubsection}{\numberline {3.9.5}Stakeholder:}{17}{subsubsection.3.9.5}
+\contentsline {subsubsection}{\numberline {3.9.6}Measurable Specification:}{17}{subsubsection.3.9.6}
+\contentsline {subsubsection}{\numberline {3.9.7}Required Integration Channels:}{18}{subsubsection.3.9.7}
+\contentsline {subsubsection}{\numberline {3.9.8}Protocol Requirements on Integration Channels:}{18}{subsubsection.3.9.8}
+\contentsline {subsubsection}{\numberline {3.9.9}Quality requirements on integration channels:}{18}{subsubsection.3.9.9}
 \contentsline {section}{\numberline {4}\textbf {\relax \fontsize {20.74}{25}\selectfont {Architecture Constraints}}}{19}{section.4}
 \contentsline {subsubsection}{\numberline {4.0.10}Description:}{19}{subsubsection.4.0.10}
 \contentsline {subsubsection}{\numberline {4.0.11}Technical constraints:}{19}{subsubsection.4.0.11}
