@@ -178,7 +178,7 @@
 			\textbf{}Important 
 		
 		\subsubsection{Description:}
-			\textbf{}As soon as an instance of a server reaches the maximum amount of connection that it can handle, a new instance of a server should be spawned. When there are multiple instances of servers running, and the amount of connections to the system can be handled with fewer instances, one or more should be terminated with its connections migrating to other instances.
+			\textbf{}As soon as an instance of a server reaches the maximum number of connections that it can handle, a new instance of a server should be spawned. When there are multiple instances of servers running, and the amount of connections to the system can be handled with fewer instances, one or more should be terminated with its connections migrating to other instances.
 		
 		\subsubsection{Stakeholder:}
 			\textbf{}Server Maintenance Staff
@@ -194,7 +194,7 @@
 			\textbf{}Critical
 		
 		\subsubsection{Details:}
-			\textbf{}Any response time longer than 1 second would break the user's though flow. Therefore if a server is overloaded, and the amount of requests in its request queue is higher than the amount that can be handled per second, a new server should be spawned to reduce stress on the current one. When more than one instance of a server is running, load balancers have to implemented to mitigate the workload. Jobs that do not need immediate responses, can be handled at times that the system is under little strain. Since the persistent data in the system will be accessed on almost every request to the server, optimal structures and indexes are very important.
+			\textbf{}Any response time longer than 1 second would break the user's though flow. Therefore if a server is overloaded, and the number of requests in its request queue is higher than the number that can be handled per second, a new server should be spawned to reduce stress on the current one. When more than one instance of a server is running, load balancers have to implemented to mitigate the workload. Jobs that do not need immediate responses, can be handled at times that the system is under little strain. Since the persistent data in the system will be accessed on almost every request to the server, optimal structures and indexes are very important.
 		
 		\subsubsection{Stakeholder:}
 			\textbf{}Users
@@ -212,7 +212,7 @@
 			\textbf{}Any module developed for the Buzz system has to be maintainable, and easily replaceable.
 		
 		\subsubsection{Details:}
-			\textbf{}By using service contracts for all modules, with coupling ratios being kept as low as possible, complete pluggability must be achieved. Any module has to be swappable or rewritable, without making any changes to any other module. All code has to adhere to strict coding standards.
+			\textbf{}By using service contracts for all modules, with coupling ratios being kept as low as possible, complete plug-ability must be achieved. Any module has to be swappable or rewritable, without making any changes to any other module. All code has to adhere to strict coding standards.
 		
 		\subsubsection{Stakeholder:}
 			\textbf{}Maintenance Staff
@@ -300,8 +300,8 @@
 			\textbf{Component Under Test}\\
 			Is a test that restrictions the scope of the used software to a ration of the system that is being tested.
 			
-			\item Controllability : The point, at which the system that’s being tested becomes possible to control the state of the component under test as required.
-			\item Isolate-ability : The point, at which the system that’s being tested becomes possible for the component under test to be tested in isolation.
+			\item Controllability : The point, at which the system, that is being tested, becomes possible to control the state of the component under test as required.
+			\item Isolate-ability : The point, at which the system, that is being tested, becomes possible for the component under test to be tested in isolation.
 			
 		\end{itemize}
 		
@@ -389,7 +389,7 @@
 				
 				\end{itemize}	
 			
-				\item The Required Integration Channels are those that the server will host the system.
+				\item The required integration channels are those that the server will host the system.
 			\end{itemize}	
 			\subsubsection{Protocol Requirements on Integration Channels:}
 			\begin{itemize}			
@@ -462,13 +462,14 @@
 					\item		Google Chrome
 					\item		Safari
 					\item		Internet Explorer
+					\item		Opera
 				
 			\end{itemize}
-			\textbf{}Buzz will not support the Android platform because of the limited time allocated for the development.
+			\textbf{}An android client is included in the plans for further access channels. However, it is out of scope for the mini-project.
 			\subsubsection{Hardware:}
 			
 			
-			\textbf{}Buzz will be hosted by the computer science server and therefore should support the server’s hardware capabilities while providing the recommended functionality to the users.
+			\textbf{}Buzz will be hosted by the Department of Computer Science servers and therefore should support the server’s hardware capabilities while providing the recommended functionality to the users.
 			
 			\subsubsection{Use of a specific library or framework:}
 			
